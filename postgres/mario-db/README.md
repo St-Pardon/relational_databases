@@ -3,5 +3,5 @@
 ## Description 
 
 ## Model
-![](./mario-db)
+![](./mario-db.png)
 [mario db](https://drawsql.app/teams/pardon/diagrams/mariodb)
